@@ -1,0 +1,811 @@
+# Project: Akarshan Creations | Premium Handmade Art & Personalized Gifting Website
+
+Act as a senior web designer, brand identity designer, UX strategist, and frontend developer. Build a complete, polished, production-quality, multi-page website for **Akarshan Creations**, a handmade art, personalized gifting, and creative decor brand based in New Delhi, India.
+
+This is a real business website, not a generic template, a wireframe, or a landing-page mockup. The website must be visually distinctive, responsive, easy to navigate, and designed to convert visitors into WhatsApp orders.
+
+## 1. Business information
+
+**Brand name:** Akarshan Creations
+**Owner:** Tripti Sahu
+**Location:** New Delhi, India
+**Delivery coverage:** Pan India
+**Instagram handle:** @akarshan.creations
+**Instagram URL:** https://www.instagram.com/akarshan.creations/
+**WhatsApp and phone:** +91 9084666012
+**Primary order channel:** WhatsApp
+**Business model:** Handmade product showcase with enquiry-based ordering
+**Domain:** Not purchased yet
+**Hosting target:** Hostinger
+
+Brand positioning:
+
+Akarshan Creations makes handmade art, personalized gifts, creative gift hampers, customized cards, and thoughtful creations for special moments. Each piece is handcrafted and personalized according to the customer's preferences.
+
+The brand's Instagram messaging emphasizes creativity, individuality, tradition, personal expression, and the effort behind handmade work.
+
+Use these themes to shape the brand voice. Do not invent awards, customer reviews, business history, sales figures, certifications, or other unsupported claims.
+
+## 2. Primary objective
+
+Create a website that helps customers:
+
+1. Discover handmade products through beautiful photography.
+2. Explore products by category and occasion.
+3. Understand the customization possibilities.
+4. View clearly labeled sample prices while the client finalizes pricing.
+5. Send a WhatsApp enquiry for a particular product.
+6. Request a customized creation by describing their requirements on WhatsApp.
+7. Understand the advance payment, preparation time, and shipping arrangements.
+8. Find and follow the brand on Instagram.
+
+Do not build a full ecommerce checkout system. There should be no shopping cart, online payment gateway, user accounts, or backend order-management system. Orders will be coordinated manually through WhatsApp.
+
+## 3. Brand identity and visual direction
+
+Create an original visual identity specifically for Akarshan Creations.
+
+### Visual concept
+
+The design should combine:
+
+* The warmth of handmade craftsmanship.
+* The beauty of Indian art and traditional motifs.
+* The charm of personalized gifting.
+* The editorial elegance of a boutique creative studio.
+* A modern, premium online shopping experience.
+
+Use a refined palette consisting of:
+
+* Warm ivory or cream as the primary background.
+* Muted blush pink for selected accents.
+* Terracotta or warm clay for emphasis.
+* Deep plum or burgundy for strong contrast.
+* Restrained champagne-gold details.
+* Dark charcoal for readable body text.
+
+Keep the background mostly light. Use color intentionally rather than filling every section with pink.
+
+Typography should pair an elegant editorial serif for prominent headings with a clean, highly legible sans-serif for body text, navigation, prices, buttons, and product details.
+
+Use generous whitespace, balanced layouts, subtle borders, restrained shadows, tasteful decorative details, and sophisticated image compositions.
+
+Avoid:
+
+* Generic AI-generated ecommerce templates.
+* Excessive gradients, glassmorphism, or glowing effects.
+* Overly childish typography and cartoon illustrations.
+* Excessive rounded cards everywhere.
+* Unnecessary animations that make the site feel slow.
+* Fake luxury claims or visually extravagant elements that compete with the products.
+* A repetitive grid of identical white cards throughout every page.
+
+### Logo creation
+
+Generate an original logo for Akarshan Creations.
+
+The logo should be elegant, recognizable, and appropriate for a handmade art and gifting boutique. Explore a custom monogram or a subtle motif inspired by a flower, handcrafted ornament, creative flourish, or gift ribbon.
+
+Create:
+
+* A primary logo with the brand name.
+* A compact icon or monogram suitable for a favicon and mobile navigation.
+* A version that works on light and dark backgrounds.
+
+Prefer a clean vector-style treatment that can be exported as SVG or recreated in SVG. Keep the mark legible at small sizes.
+
+Do not use a premade unrelated brand logo or copy another company's identity.
+
+## 4. Product categories
+
+Create a flexible product catalog organized into the following categories, based on the supplied Instagram content.
+
+### A. Lippan Art and Handmade Artwork
+
+Include:
+
+* Decorative Lippan art.
+* Hand-painted decorative pieces.
+* Devotional and Indian-inspired artwork.
+* Painted canvases and other handmade paintings.
+* Custom artwork enquiries.
+
+Use the actual product photographs supplied by the client. Do not represent every painting as Lippan art if the technique is different or unknown.
+
+### B. Handmade and Personalized Cards
+
+Include:
+
+* Birthday cards.
+* Anniversary cards.
+* Valentine's Day cards.
+* Personalized message cards.
+* Custom-occasion cards.
+
+Emphasize personalization and thoughtful presentation.
+
+### C. Creative Gift Hampers
+
+Include:
+
+* Chocolate bouquets.
+* Chocolate and snack hampers.
+* Beauty and self-care hampers.
+* Accessory hampers.
+* Festive hampers.
+* Personalized gift boxes.
+* Occasion-based gift arrangements.
+
+Do not imply that every hamper contains the same products. Each item should show its actual contents where known.
+
+### D. Scrapbooks and Memory Gifts
+
+Include:
+
+* Photo albums.
+* Photo-dump books.
+* Memory books.
+* Scrapbooks.
+* Personalized keepsake gifts.
+
+Use actual product photographs to show the detail and effort that goes into each creation.
+
+### E. Customized Gifts and Decorations
+
+Include:
+
+* Personalized decorative gifts.
+* Customized gift boxes.
+* Occasion-specific gift arrangements.
+* Handmade decorative pieces.
+* Other confirmed products from the client's supplied photographs.
+
+### F. Accessories and Small Gifts
+
+Include:
+
+* Scrunchies.
+* Hair accessories.
+* Small accessory gifts.
+* Jewelry and accessory gift arrangements.
+
+Only list individual products when the supplied photos or client-approved content support them.
+
+Create the catalog so additional categories and products can be added later without redesigning the website.
+
+## 5. Website architecture
+
+Build the following as separate, navigable pages with consistent branding, a shared header, and a shared footer.
+
+### Page 1: Home
+
+Create an exceptional homepage with the following sections.
+
+**Announcement strip**
+
+A small, elegant announcement such as:
+
+"Handcrafted with love | Personalized creations delivered across India"
+
+Do not promise free shipping or delivery dates.
+
+**Hero section**
+
+Use a striking real product photograph, preferably a beautiful gift arrangement or a visually distinctive handmade artwork. Use the supplied image assets rather than generic stock images.
+
+Suggested headline:
+
+"Thoughtfully Made. Beautifully Personal."
+
+Suggested supporting text:
+
+"From handmade art to personalized gifts and creative hampers, discover little creations that make your special moments unforgettable."
+
+Primary CTA: "Explore Our Creations"
+
+Secondary CTA: "Create Something Custom"
+
+The primary CTA should open the Creations page. The secondary CTA should open WhatsApp with a pre-filled customization enquiry.
+
+Keep the typography editorial and the layout uncluttered. Ensure the text remains legible over or beside the photograph.
+
+**Featured categories**
+
+Show visually distinct category tiles for:
+
+* Lippan Art & Paintings
+* Handmade Cards
+* Gift Hampers
+* Scrapbooks & Memory Gifts
+* Customized Gifts
+
+Each tile should contain an actual relevant product image and a link to the relevant catalog category.
+
+**Featured creations**
+
+Display approximately six to eight products using a balanced editorial product grid.
+
+Each product card should include:
+
+* Product image.
+* Product name.
+* Short, factual description.
+* Sample price, clearly marked as temporary demo pricing in the development version.
+* Customization indicator where applicable.
+* "Enquire on WhatsApp" button.
+
+Never invent a finished product's exact dimensions, materials, contents, or personalization options. Use approved information or concise descriptions based on the actual image.
+
+**Made for your moments**
+
+Create an occasion-focused section for:
+
+* Birthdays.
+* Anniversaries.
+* Valentine's Day.
+* Festivals.
+* Personal milestones.
+* Just-because gifting.
+
+These should be discovery categories, not promises that every product is available for every occasion.
+
+**The art of handmade**
+
+Use a large photograph of handmade artwork and refined editorial typography.
+
+Suggested copy:
+
+"More than a gift. A little piece of someone's creativity."
+
+Supporting text:
+
+"Every handmade creation carries its own character. Discover personalized cards, thoughtful hampers, artwork, and keepsakes created to make meaningful moments feel even more special."
+
+**Custom creations section**
+
+Headline: "Have Something Special in Mind?"
+
+Text:
+
+"Tell us what you're imagining. Share your occasion, preferred style, and ideas with us on WhatsApp, and we'll discuss a creation tailored to your preferences."
+
+CTA: "Discuss Your Custom Order"
+
+Open WhatsApp with an appropriate pre-filled message.
+
+**Gallery preview**
+
+Display six to nine images from different product categories in an editorial collage or asymmetric grid.
+
+Include a link to the full Gallery page.
+
+**About preview**
+
+Introduce Tripti Sahu and the creative philosophy behind Akarshan Creations. Link to the About page.
+
+**Shipping and ordering preview**
+
+Briefly explain:
+
+* Orders are confirmed through WhatsApp.
+* Full advance payment is required.
+* Typical preparation time is 5–7 days.
+* Shipping is available across India.
+
+Clarify that the preparation timeline is an estimate and shipping transit time is additional unless the client confirms otherwise.
+
+**Instagram section**
+
+Feature a curated set of actual product images and a clear "Follow on Instagram" CTA.
+
+Link to https://www.instagram.com/akarshan.creations/.
+
+Do not fabricate an Instagram feed or imply it updates live unless an actual integration is implemented.
+
+**Footer**
+
+Include:
+
+* Logo.
+* Short brand description.
+* Navigation links.
+* Product category links.
+* WhatsApp contact.
+* Phone contact.
+* Instagram link.
+* Shipping Policy.
+* Custom Orders information.
+* Copyright notice.
+
+### Page 2: About
+
+Create a warm, story-driven page introducing Akarshan Creations and its founder, Tripti Sahu.
+
+Use a genuine founder photograph if supplied. Do not generate a fake portrait and present it as the actual owner.
+
+Suggested heading:
+
+"Every Creation Has a Story."
+
+Use this draft brand story as a starting point, refining it to fit the layout:
+
+"Akarshan Creations is a handmade art and personalized gifting brand based in New Delhi, built around the idea that the most meaningful gifts are the ones that feel personal.
+
+From vibrant handmade artwork and decorative creations to personalized cards, memory books, and thoughtfully arranged gift hampers, each creation is an opportunity to turn an idea into something tangible.
+
+Inspired by creativity, tradition, and personal expression, Akarshan Creations celebrates the beauty of things made by hand. The goal is to create gifts that feel connected to the person receiving them and the moment being celebrated.
+
+Whether you're looking for a handmade piece of art, a personalized keepsake, or a custom gift arrangement, Akarshan Creations invites you to share your ideas and create something meaningful."
+
+Present this as brand storytelling, not as a verified biography. Do not invent the founder's childhood, qualifications, achievements, or years of experience.
+
+Include:
+
+* Brand introduction.
+* Founder introduction using only confirmed details.
+* The importance of handmade work.
+* An image-led overview of the product categories.
+* A CTA to explore creations.
+* A CTA to enquire about a custom order.
+
+### Page 3: Creations / Shop
+
+Build a polished product catalog that supports discovery and enquiry-based ordering.
+
+Include:
+
+* Clear page title and introductory text.
+* Category filters.
+* Product search if practical.
+* Sort options if practical.
+* Responsive product grid.
+* Consistent product cards.
+* Product detail views or individual product pages where useful.
+
+Category filters must actually work. Selecting a category should show only relevant products, and a reset option should restore the full catalog.
+
+Each product should have a structured data entry containing:
+
+* Unique product ID.
+* Product name.
+* Category.
+* Short description.
+* Image path.
+* Sample price.
+* Customization availability.
+* Featured status.
+
+Create realistic demo products inspired by the actual photographs, such as:
+
+* Floral Lippan Art Plate.
+* Personalized Devotional Artwork.
+* Birthday Surprise Hamper.
+* Chocolate Bouquet.
+* Personalized Memory Book.
+* Handmade Birthday Card.
+* Photo-Dump Scrapbook.
+* Customized Beauty Hamper.
+* Festive Gift Hamper.
+* Personalized Anniversary Gift Box.
+* Handmade Decorative Painting.
+* Accessory Gift Arrangement.
+
+These are illustrative product names. Do not imply that the named examples correspond to actual client-approved product listings unless matched with the supplied photographs.
+
+**Temporary pricing**
+
+Use plausible illustrative INR prices to make the prototype feel complete. Clearly flag all such prices as demo placeholders in the project data and development notes.
+
+Use sample amounts appropriate to different product types, for example ₹299, ₹499, ₹799, ₹999, and ₹1,499.
+
+These prices are not approved business prices. Do not claim that they are actual quotations. Make them easy to replace in one central product data file.
+
+Before the public launch, require the placeholder prices to be replaced with client-approved prices or change the catalog to "Price on Request."
+
+**Product enquiry button**
+
+Every product card should have an "Enquire on WhatsApp" button.
+
+When clicked, open WhatsApp using the client's number and a URL-encoded pre-filled message containing the actual product name.
+
+Example message:
+
+"Hi Akarshan Creations! I'm interested in the [Product Name]. Could you please share the available options, final price, customization possibilities, and delivery details?"
+
+Use the correct product name dynamically. Do not use one identical hardcoded product name for every button.
+
+For customized products, add a suitable personalization prompt.
+
+If a product detail view is implemented, include:
+
+* Larger product photographs.
+* Product name and category.
+* Client-approved description.
+* Clearly labeled demo price or approved final price.
+* Customization information.
+* WhatsApp enquiry CTA.
+* Related products.
+
+Do not add a cart or pretend to process payments on the website.
+
+### Page 4: Custom Orders
+
+Create a dedicated page explaining how customers can request personalized creations.
+
+Suggested heading:
+
+"Imagine It. Personalize It. Let's Create It."
+
+Explain that customers can contact the brand to discuss customized cards, gift hampers, artwork, memory books, and other creations.
+
+**How it works**
+
+Step 1: Share your idea.
+
+Tell us the occasion, the kind of product you want, and any inspiration or references.
+
+Step 2: Discuss the details.
+
+Discuss the design, personalization, product contents where relevant, and final price with the brand.
+
+Step 3: Confirm your order.
+
+The order is confirmed after the final details and full advance payment are agreed upon and received.
+
+Step 4: Creation and delivery.
+
+The typical preparation time is 5–7 days, with shipping time additional.
+
+Do not promise a guaranteed arrival date before the customer confirms the order details.
+
+Add a strong CTA:
+
+"Start Your Custom Order on WhatsApp"
+
+The pre-filled WhatsApp message should ask the customer to share:
+
+* What they want to create.
+* The occasion.
+* Preferred design or theme.
+* Budget, if they have one.
+* Required delivery date.
+* Reference images, if available.
+
+The message must invite the customer to provide details rather than imply that a complex order form is already being submitted.
+
+Do not build a form that claims to submit an order to a server. A simple interactive form that generates a WhatsApp message is optional, provided it works reliably.
+
+### Page 5: Gallery
+
+Create an image-led portfolio of the brand's handmade creations.
+
+The client will provide more than 50 high-quality images across different product categories. Build the Gallery page to accommodate all approved images.
+
+Organize the gallery into working filters such as:
+
+* All Creations.
+* Lippan Art & Paintings.
+* Handmade Cards.
+* Gift Hampers.
+* Scrapbooks & Memory Books.
+* Customized Gifts.
+* Accessories & Small Gifts.
+
+Only include categories for which actual images are supplied.
+
+Gallery requirements:
+
+* Responsive editorial masonry or balanced grid layout.
+* Consistent image handling without distorting product proportions.
+* Lazy loading where appropriate.
+* A lightbox that opens the selected image at a larger size.
+* Previous and next navigation inside the lightbox.
+* Close button.
+* Escape-key support.
+* Appropriate mobile touch behavior.
+* Accessible image descriptions.
+* Optional captions based on verified product information.
+
+Do not use the same photo repeatedly to fill the grid. Do not replace missing client photographs with unrelated stock images.
+
+### Page 6: Contact
+
+Create a simple, attractive contact page with:
+
+* WhatsApp enquiry CTA.
+* Tap-to-call phone number.
+* Instagram link.
+* New Delhi, India as the business location.
+* Pan-India shipping information.
+* Typical preparation time.
+* Full advance payment information.
+* Clear guidance for placing orders.
+
+Use these links:
+
+WhatsApp: https://wa.me/919084666012
+
+Phone: tel:+919084666012
+
+Instagram: https://www.instagram.com/akarshan.creations/
+
+Use the correct Indian country code for the WhatsApp and phone links.
+
+Do not display a street address, email, map, opening hours, or other contact details that have not been provided.
+
+### Page 7: Shipping Policy
+
+Create a dedicated Shipping Policy page with clean typography and clear sections.
+
+Use the following confirmed information:
+
+* The business ships across India.
+* Typical product preparation time is 5–7 days.
+* Full advance payment is required.
+* Shipping transit time is separate from product preparation time unless otherwise confirmed.
+
+Explain the difference between preparation and transit time.
+
+Do not invent:
+
+* A specific courier company.
+* A fixed shipping fee.
+* Free shipping.
+* Guaranteed delivery dates.
+* Express delivery options.
+* Tracking capabilities.
+* International shipping.
+* A refund or return policy.
+* Damaged parcel procedures.
+* Undeliverable shipment rules.
+
+For details that the owner has not confirmed, state that customers should contact Akarshan Creations on WhatsApp before confirming their order.
+
+Add a prominent "Ask About Shipping" CTA that opens WhatsApp with a pre-filled question.
+
+Structure the page so the owner can easily update the policy later.
+
+## 6. Shared navigation and mobile experience
+
+Create a consistent header with:
+
+* Brand logo.
+* Home.
+* About.
+* Creations.
+* Gallery.
+* Custom Orders.
+* Contact.
+* A visually clear WhatsApp CTA.
+
+Use a compact mobile navigation menu with an accessible toggle and correct keyboard behavior.
+
+On mobile:
+
+* Avoid horizontal overflow.
+* Keep the logo readable.
+* Ensure the menu is easy to use.
+* Make buttons large enough to tap.
+* Keep product images attractive without cropping out important details.
+* Make product filters usable.
+* Ensure all content remains readable.
+* Use a restrained sticky WhatsApp CTA only if it does not obstruct content.
+
+Every page must have working navigation and meaningful page-specific titles.
+
+## 7. WhatsApp integration
+
+WhatsApp is the main conversion mechanism.
+
+Create a reusable WhatsApp link utility so all WhatsApp buttons consistently use the same number.
+
+Use:
+
+https://wa.me/919084666012
+
+Generate messages using proper URL encoding. Use actual product names and context where appropriate.
+
+Implement distinct messages for:
+
+* General enquiry.
+* Individual product enquiry.
+* Custom order.
+* Shipping question.
+* Contact page enquiry.
+
+Example general message:
+
+"Hi Akarshan Creations! I visited your website and would like to know more about your creations."
+
+Example custom order message:
+
+"Hi Akarshan Creations! I'd like to discuss a customized creation. My occasion is [occasion], and I'm interested in [product type]. I can share my preferences and reference images here. Please guide me through the options and pricing."
+
+The user must be able to edit the generated message in WhatsApp before sending it.
+
+Open WhatsApp in a suitable new tab or the WhatsApp app depending on the device and browser.
+
+Do not claim that the message was sent or that an order was placed. Opening WhatsApp only initiates the conversation.
+
+## 8. Product images and asset management
+
+The client will provide high-quality product images based on the existing Instagram posts.
+
+Use these client-supplied images as the primary visual assets.
+
+Create a clear asset structure, for example:
+
+public/
+images/
+logo/
+hero/
+lippan-art/
+paintings/
+cards/
+gift-hampers/
+scrapbooks/
+customized-gifts/
+accessories/
+gallery/
+
+This is a suggested structure; adapt it to the actual project.
+
+Use descriptive filenames and centralize image paths in the product data.
+
+Do not assume that the screenshots included in the initial project are the final high-resolution product images. The final assets will be supplied separately.
+
+Use attractive placeholders only during development, clearly mark them as replaceable, and never leave unrelated stock images in the production version.
+
+Preserve the natural appearance of the products. Use appropriate object-fit behavior and image ratios for the different categories.
+
+Do not generate synthetic product photos that could be mistaken for actual products sold by the business.
+
+## 9. Animation and interaction design
+
+Use subtle, refined motion:
+
+* Gentle fade-in or upward reveal as sections enter view.
+* Tasteful hover effects on product cards.
+* Smooth transitions between filter states.
+* Elegant lightbox transitions.
+* Subtle image zoom on hover where appropriate.
+* Clear focus states and button feedback.
+
+Animations must be lightweight, performant, and nonessential to accessing content.
+
+Respect the reduced-motion preference.
+
+Do not animate every element. Avoid distracting scroll hijacking, excessive parallax, or long intro animations.
+
+## 10. Technical implementation
+
+Build the website using a maintainable frontend architecture.
+
+Preferred approach:
+
+* React.
+* TypeScript.
+* A suitable lightweight styling system such as Tailwind CSS.
+* Reusable components.
+* Centralized product data.
+* A shared design system for typography, spacing, color, and buttons.
+
+Use a stable implementation compatible with the project's actual Lovable environment. Do not introduce unnecessary libraries.
+
+The finished website must be suitable for deployment on Hostinger using a compatible static build, subject to the hosting plan's supported deployment method.
+
+Important technical constraints:
+
+* Do not require Node.js to run on the production hosting server.
+* Do not require a custom backend.
+* Do not depend on server-side APIs for basic website functionality.
+* Do not require a database.
+* Do not require environment secrets for the core showcase and WhatsApp ordering features.
+* Do not build features that only work in Lovable's preview environment.
+* Do not implement fake authentication, fake payment processing, or fake order submissions.
+
+Use the available build system to generate deployable production assets. Document the required build command, output directory, and any routing requirements for the actual project.
+
+Ensure direct navigation and page refreshes work on all pages after deployment. If the selected hosting method requires routing configuration, document and provide the necessary configuration.
+
+Keep all product information, temporary prices, categories, and image references easy to update.
+
+## 11. SEO and discoverability
+
+Optimize the website for relevant search terms without keyword stuffing.
+
+Potential terms include:
+
+* Akarshan Creations.
+* Handmade gifts India.
+* Personalized gifts India.
+* Handmade cards.
+* Lippan art.
+* Customized gift hampers.
+* Personalized scrapbooks.
+* Handmade paintings.
+* Custom gifts delivered across India.
+
+Implement:
+
+* Unique page titles.
+* Useful meta descriptions.
+* Semantic heading hierarchy.
+* Descriptive image alt text.
+* Canonical URL configuration that can be finalized once the domain is purchased.
+* Open Graph metadata.
+* Favicon using the new brand icon.
+* A sitemap and robots.txt appropriate for the production domain.
+* Structured data only where the information is accurate and supported.
+
+Do not invent customer reviews, a street address, ratings, prices, or business details in structured data.
+
+Do not publish a fake business address or unsupported local business schema.
+
+## 12. Accessibility and performance
+
+Ensure:
+
+* Good contrast.
+* Keyboard-accessible navigation.
+* Visible focus indicators.
+* Proper labels for interactive controls.
+* Accessible lightbox controls.
+* Descriptive alt text.
+* Responsive typography.
+* Reduced-motion support.
+* No essential information conveyed only through color.
+* Optimized images and lazy loading where appropriate.
+* No unnecessary layout shifts.
+* No console errors.
+* No broken internal links.
+* No broken image references.
+
+Use semantic HTML and maintainable code.
+
+## 13. Content accuracy and business rules
+
+The following are confirmed:
+
+* Business name: Akarshan Creations.
+* Owner name: Tripti Sahu.
+* Base location: New Delhi, India.
+* Shipping coverage: Pan India.
+* Preparation time: typically 5–7 days.
+* Advance payment: 100%.
+* Primary ordering method: WhatsApp.
+* Phone and WhatsApp number: +91 9084666012.
+* Instagram: @akarshan.creations.
+* Products: handmade art, Lippan art, paintings, handmade cards, customized gifts and decorations, gift hampers, scrapbooks, memory books, and accessory-related gifts, supported by the supplied Instagram material.
+* No dedicated collaborations page or section.
+* No online checkout or payment gateway.
+* No customer account system.
+
+Do not add collaborations to the navigation or website copy.
+
+Do not invent policies, delivery fees, guarantees, product materials, product sizes, exact contents, business credentials, testimonials, or personal biography details.
+
+Sample product names and sample prices must be editable and identified as placeholders until approved by the owner.
+
+## 14. Final quality requirements
+
+Do not stop after generating the homepage.
+
+Complete all required pages and shared components. Ensure the product filters, gallery lightbox, mobile menu, navigation, and WhatsApp links actually work.
+
+Before finishing:
+
+1. Review the website on desktop, tablet, and mobile.
+2. Test every navigation link and CTA.
+3. Verify that each product button generates the correct WhatsApp message.
+4. Test category filtering and gallery interactions.
+5. Check for broken images, overflowing layouts, and console errors.
+6. Confirm that every page can be accessed directly and refreshed.
+7. Check that temporary prices are easy to replace.
+8. Confirm that the production build works.
+9. Verify that no unsupported business claims have been introduced.
+10. Provide clear instructions for replacing the placeholder product images and product data with the owner's actual high-resolution assets.
+
+The final result should feel like a carefully art-directed handmade gifting boutique: visually memorable, warm, elegant, image-rich, easy to explore, and genuinely useful for customers who want to order personalized creations.
+
+Prioritize visual quality, authenticity, and a seamless WhatsApp enquiry experience over unnecessary technical complexity.
